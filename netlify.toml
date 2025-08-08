@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "https://github.com/:splat"
+  to = "https://halo.zhuzhu233.eu.org/:splat"
   status = 200
