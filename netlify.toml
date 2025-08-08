@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/*"
-to "https://halo.zhuzhu233.eu.org/:splat"
+to "https://halo.zhuzhu233.eu.org:443/:splat"
 status = 200
 force = true
