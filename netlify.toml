@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to "https://halo.zhuzhu233.eu.org/:splat"
+status = 200
+force = true
